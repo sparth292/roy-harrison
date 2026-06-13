@@ -4636,7 +4636,7 @@ a.post-thumbnail:hover {
   background-image: url(../images/main_photo.jpg);
   background-position: center 24px;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: 88%;
   background-color: #fff;
   height: auto;
   display: block;
