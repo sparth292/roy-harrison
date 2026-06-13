@@ -4634,7 +4634,7 @@ a.post-thumbnail:hover {
 
 .home-page-third-style .home-photo .hp-inner {
   background-image: url(../images/main_photo.jpg);
-  background-position: center -30px;
+  background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
   background-color: #fff;
