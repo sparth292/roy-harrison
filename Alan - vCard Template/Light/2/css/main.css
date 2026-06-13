@@ -4702,7 +4702,11 @@ a.post-thumbnail:hover {
   }
 
   .home-page-third-style .home-photo {
-    min-height: calc(50vh - 20px);
+    min-height: calc(80vh - 20px);
+  }
+
+  .home-page-third-style .home-photo .hp-inner {
+    background-size: cover;
   }
 
   .home-page-third-style .home-text {
