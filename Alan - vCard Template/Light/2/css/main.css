@@ -4627,7 +4627,7 @@ a.post-thumbnail:hover {
   display: block;
   position: relative;
   width: 100%;
-  min-height: calc(100vh - 20px);
+  height: 100vh;
   background-color: #fff;
   overflow: hidden;
 }
