@@ -4636,15 +4636,16 @@ a.post-thumbnail:hover {
   background-image: url(../images/main_photo.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
+  background-color: #1a1a1a;
   height: auto;
   display: block;
   position: absolute;
-  top: -18px;
-  bottom: -18px;
-  width: auto;
-  left: -18px;
-  right: -18px;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+  right: 0;
 }
 
 .home-page-third-style .without-padding {
